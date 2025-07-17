@@ -51,7 +51,7 @@ We're building a platform that automates the *entire QA process* from user stori
 ## 📬 Contact
 
 For collaboration, mentorship, or early access:  
-📧 nihaalrayabharapu@gmail.com  
+📧 nihaal@pilotqa.ai 
 🔗 LinkedIn: www.linkedin.com/in/nihaalrayabharapu05
 
 ---
