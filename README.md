@@ -63,7 +63,7 @@ Driven by purpose. Built to scale.
 ## 📬 Contact
 
 For collaboration, mentorship, or early access:
-📧 nihaalrayabharapu@gmail.com  
+📧 nihaal@pilotqa.ai
 🔗 LinkedIn: [www.linkedin.com/in/nihaalrayabharapu05](https://www.linkedin.com/in/nihaalrayabharapu05)
 
 ---
