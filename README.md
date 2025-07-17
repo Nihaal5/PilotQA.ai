@@ -1,68 +1,71 @@
-# PilotQA (MVP)
+# PilotQA.ai (MVP)
 
-> AI-powered, plug-and-play test automation platform for startups and developers.  
-> Zero manual QA. Just instant, smart, scalable quality engineering.
+> AI-powered, plug-and-play test automation platform for developers and startups.  
+> Smart testing. Zero setup. Pilot your QA with AI.
 
 ---
 
 ## 🚀 Mission
 
-We're building a platform that automates the *entire QA process* from user stories, API contracts, and UI designs — so startups can move faster, deploy safer, and scale without worrying about testing overhead.
+PilotQA.ai is on a mission to eliminate the friction and overhead of manual testing.  
+We’re building a platform that turns user stories, API schemas, and UI designs into automated test cases — instantly.  
+Startups and dev teams can now ship confidently, knowing their releases are tested without ever writing QA scripts manually.
+
+---
 
 ## 🎯 Features (MVP Scope)
 
-- 🔍 AI-generated test cases from user stories
-- 🧪 Automated UI test execution using Selenium/Playwright
-- 🌐 API test generation using Postman or Python + Requests
-- 🛠 GitHub and JIRA integration for dev/QA sync
-- 📊 Test result reporting with real-time dashboards
-- 🤖 Future: Self-healing tests + flaky detection using GenAI
+- 🧠 AI-generated test cases from natural language user stories
+- 🧪 UI test automation using Selenium or Playwright
+- 🌐 API test automation via Postman or Python Requests
+- 🔗 GitHub & JIRA integration for seamless developer flow
+- 📊 Test execution dashboards + reporting
+- 🤖 Future: Self-healing tests, flaky test detection, AI bug triage
 
-## 💡 Why This Matters
+---
 
-> Startups move fast — testing is often ignored until it's too late.  
-> Our platform ensures that every release is tested, covered, and deploy-ready — *automatically.*
+## 💡 Why PilotQA.ai?
+
+> Developers are building faster than ever — but testing hasn’t kept up.  
+> PilotQA.ai bridges the gap by giving every team a smart, scalable QA co-pilot.
+
+---
 
 ## 🏗️ Tech Stack (Planned)
 
-- **Frontend**: React / Next.js (for future dashboard)
-- **Backend**: Python (Flask or FastAPI)
-- **Automation**: Selenium + Playwright, Postman, RestAssured
-- **AI Engine**: OpenAI API + LangChain + Python NLP
+- **Frontend**: React / Next.js (dashboard)
+- **Backend**: Python (FastAPI or Flask)
+- **Automation**: Selenium / Playwright, Postman
+- **AI Engine**: OpenAI API + LangChain
+- **Database**: Supabase / Firebase
 - **CI/CD**: GitHub Actions
-- **Database**: Supabase / Firebase (for MVP)
 - **Hosting**: Vercel + AWS Lambda
+
+---
 
 ## 📅 Roadmap
 
-- [ ] Phase 1: User Story → AI-generated Test Cases
-- [ ] Phase 2: UI + API test execution with test result dashboard
-- [ ] Phase 3: Slack + GitHub + JIRA integration
-- [ ] Phase 4: Launch Private Beta
+- [ ] Phase 1: User Story → AI-generated test cases
+- [ ] Phase 2: Execute UI + API tests, view results
+- [ ] Phase 3: GitHub/JIRA/Slack integrations
+- [ ] Phase 4: Launch private beta + gather feedback
+
+---
 
 ## 🙋‍♂️ Built With 💛 By
 
 **Nihaal Datta Sai Rayabharapu**  
-> Founder in Progress • Automation Enthusiast • Future CEO
-> _Driven by vision. Powered by purpose._
+Founder & Automation Engineer  
+Driven by purpose. Built to scale.
 
 ---
 
 ## 📬 Contact
 
-For collaboration, mentorship, or early access:  
-📧 nihaal@pilotqa.ai 
-🔗 LinkedIn: www.linkedin.com/in/nihaalrayabharapu05
-
----
-
-
-## 🔗 Demo
-
-🚧 MVP in progress – demo link coming soon!  
-Follow this repo to stay updated as we build out the first working prototype.
+For collaboration, mentorship, or early access:
+📧 nihaalrayabharapu@gmail.com  
+🔗 LinkedIn: [www.linkedin.com/in/nihaalrayabharapu05](https://www.linkedin.com/in/nihaalrayabharapu05)
 
 ---
 
 > “I’m not just building a tool. I’m building freedom — for myself, and for every developer tired of manual QA.”
-
