@@ -1,4 +1,4 @@
-# Auto-QA-as-a-Service (MVP)
+# PilotQA (MVP)
 
 > AI-powered, plug-and-play test automation platform for startups and developers.  
 > Zero manual QA. Just instant, smart, scalable quality engineering.
